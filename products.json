@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Cafe Mexicano",
+        "price": 5.99,
+        "description": "Cafe 100% de orgien mexicano",
+        "stock": 100,
+        "active": true,
+        "image": "https://phantom-elmundo.unidadeditorial.es/023d6027cc03f6a8215e07529e239536/resize/1200/f/jpg/assets/multimedia/imagenes/2021/05/13/16209030082239.jpg"
+    },
+    {
+        "name": "Cafe Italiano",
+        "price": 6.99,
+        "description": "Cafe 100% de orgien italiano",
+        "stock": 100,
+        "active": true,
+        "image": "https://www.webconsultas.com/sites/default/files/styles/wch_image_schema/public/temas/cafe.jpg"
+    },
+    {
+        "name": "Cafe Colombiano",
+        "price": 7.99,
+        "description": "Cafe 100% de orgien colombiano",
+        "stock": 100,
+        "active": true,
+        "image": "https://images.ecestaticos.com/wt_vheMICWutxWMdqaEH1UWyBps=/353x38:2118x1359/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F152%2F6b0%2Feff%2F1526b0eff12fad54065976f56c5b9e18.jpg"
+    },
+    {
+        "name": "Cafe Peruano",
+        "price": 8.99,
+        "description": "Cafe 100% de orgien peruano",
+        "stock": 100,
+        "active": true,
+        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/close-up-of-coffee-in-cup-royalty-free-image-1568292874.jpg"
+    },
+    {
+        "name": "Cafe Brasileño",
+        "price": 9.99,
+        "description": "Cafe 100% de orgien brasileño",
+        "stock": 100,
+        "active": true,
+        "image": "https://elcomercio.pe/resizer/AxdrHmmYJ2fIcIQ3OvAfLDQzD5s=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/I4D5BEVARND6BINXXV34M7RUIY.png"
+    }
+]
