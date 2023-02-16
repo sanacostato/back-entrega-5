@@ -1,6 +1,6 @@
 const { response, request } = require('express');
 const User = require('../models/User.model');
-const authModel = require('../models/auth.model');
+const authModel = require('../models/Auth.model');
 
 const usersGet = async (req = request, res = response) => {
     try {
