@@ -1,4 +1,4 @@
-const authModel = require('../models/Auth.model');
+const authModel = require('../models/auth.model');
 
 const chkToken = async (req, res, next) => {
     try {

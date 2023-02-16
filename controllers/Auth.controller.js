@@ -1,6 +1,6 @@
 const { response, request } = require('express');
 const Usuario = require('../models/User.model');
-const authModel = require('../models/Auth.model');
+const authModel = require('../models/auth.model');
 
 
 const login = async (req = request, res = response) => {

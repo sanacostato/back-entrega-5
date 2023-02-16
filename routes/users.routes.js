@@ -1,6 +1,6 @@
 const { Router } = require('express');
 const router = Router();
-const chkToken = require('../middlewares/Auth.middleware');
+const chkToken = require('../middlewares/auth.middleware');
 const {
 usersGet,
 usersPost,
